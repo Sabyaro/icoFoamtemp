@@ -13,4 +13,4 @@ to use this solver, openfoam-V2312 should be installed on the system.
 To run the example one needs to download the 0, constant and the system folder then need to copy in directory where you want to execute.
 The steps can be followed to execute the example 
 1. Run the command in terminal "blockMesh"
-2. Execute using "icoFoamtemp" in the terminal 
+2. Execute using "icoFoamtemp" command in the terminal 
